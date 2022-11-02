@@ -112,7 +112,7 @@ body {
 }
 
 .content-box .form-box .input-box input[type=submit] {
-    background: #4aa4ee;
+    background: #CA5529;
     color: #fff;
     outline: none;
     border: none;
@@ -123,7 +123,8 @@ body {
 }
 
 .content-box .form-box .input-box input[type=submit]:hover {
-    background: #3286ca
+    background: #6f2008;
+    font-weight: 400;
 }
 
 .content-box .form-box .remember {
